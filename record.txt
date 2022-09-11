@@ -1,0 +1,6 @@
+muneeb 1234 0
+ali 1234 1000
+Muneeb akbar 0
+akbar ali 0
+umair a1 0
+a1 #$D.c1 300
